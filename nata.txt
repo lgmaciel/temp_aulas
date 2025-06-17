@@ -1,1 +1,6 @@
 Bla bla bla
+
+Sempre quando for entrar em um novo repositório, é necessário executar a indentificação de usuário no 
+CMD, para direcionar onde será enviado o arqui, sempre preencher o campo de texto com a descrição do commit
+git config --local user.name cardosonata 
+git config --local user.email cardosonata@email.com
