@@ -1,0 +1,8 @@
+*.exe
+*.out
+*.o
+*.cbp
+*.layout
+*.depend
+*.rc
+\cbprojs\w32dialog
